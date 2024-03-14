@@ -6,7 +6,7 @@ Saya seorang **Pengajar** di [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/
  
 Saya mengajar Matakuliah **Pemrograman Web**, **Arsitektur Cloud Computing**, **Etika Profesi**, & **Sistem Enterprise**
 
-Link Jurnal Publikasi [Link GS](https://scholar.google.com/citations?user=2szgk38AAAAJ&hl=en&oi=ao/).<br>
+Link Jurnal Publikasi [Google Scholar Prita](https://scholar.google.com/citations?user=2szgk38AAAAJ&hl=en&oi=ao/).<br>
  
 ### Github Statistic
 <p align="left">
